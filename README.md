@@ -1,6 +1,6 @@
 # fmp
 
-A new Flutter project.
+This my first project as a beginner ( without even learning basics ) , that's why the architecture might sound messy and the code unorganized ! 
 
 ## Getting Started
 
